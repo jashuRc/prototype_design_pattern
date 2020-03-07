@@ -1,0 +1,1 @@
+package com.prototype_design_pattern.model;
